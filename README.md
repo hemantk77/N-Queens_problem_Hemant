@@ -41,25 +41,6 @@ This study designs, implements, and compares the following four algorithms:
 4.  **Genetic Algorithm**
     * A meta-heuristic inspired by natural evolution. It evolves a population of candidate solutions over generations using selection, crossover, and mutation operators to find a valid solution. [cite_start]It is particularly effective for large-scale problems.
 
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-* Python 3.x installed on your system.
-
-### Installation
-
-1.  Clone the repo
-    ```sh
-    git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
-    ```
-2.  Navigate to the project directory
-    ```sh
-    cd your_repository_name
-    ```
-
 ## Usage
 
 Each algorithm is contained in its own Python script. These scripts are designed as testing harnesses that run 10 trials for a given `N` and report the average performance.
